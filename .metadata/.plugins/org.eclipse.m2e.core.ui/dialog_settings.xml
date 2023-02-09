@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Kristin\Desktop\IT-tradenomiopinnot\Back End -ohjelmointi\BackEndHarjoitustehtavat\Bookstore\Bookstore"/>
+			<item value="C:\Users\Kristin\Desktop\IT-tradenomiopinnot\Back End -ohjelmointi\BackEndHarjoitustehtavat\FriendList\FriendList"/>
+			<item value="C:\Users\Kristin\Desktop\IT-tradenomiopinnot\Back End -ohjelmointi\BackEndHarjoitustehtavat\HandlingLists\HandlingLists"/>
+			<item value="C:\Users\Kristin\Desktop\IT-tradenomiopinnot\Back End -ohjelmointi\BackEndHarjoitustehtavat\HelloThymeleaf\HelloThymeleaf"/>
 			<item value="C:\Users\Kristin\Desktop\IT-tradenomiopinnot\Back End -ohjelmointi\BackEndHarjoitustehtavat\RequestParameters\RequestParameters"/>
 			<item value="C:\Users\Kristin\Desktop\IT-tradenomiopinnot\Back End -ohjelmointi\BackEndHarjoitustehtavat\ControllerAndEndpoints\ControllerAndEndpoints"/>
 		</list>
